@@ -66,6 +66,7 @@ const getRandomEmployee = function(employeesArray) {
   
 }
 
+
 /*
   ====================
   STARTER CODE
@@ -131,3 +132,4 @@ const trackEmployeeData = function() {
 
 // Add event listener to 'Add Employees' button
 addEmployeesBtn.addEventListener('click', trackEmployeeData);
+
